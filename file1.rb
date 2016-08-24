@@ -1,1 +1,3 @@
-p "lala"
+p "LaLa"
+class A
+end
